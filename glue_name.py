@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Sheri Facey
+# DATE: 02/14/2025
+# BRIEF DESCRIPTION:   Creating and using function to say hi to input name 
 
 
 
@@ -17,7 +17,10 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-    
+print()
+First_name = input('Enter first name ')
+Last_name = input ('Enter last name ')
+print(f'Hi', First_name,  Last_name )
     
     
     
@@ -76,6 +79,9 @@ Hi, Lisa Simpson, esquire
 1. What is a lesson you learned during this lab? You do not have to restrict
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
+
+   Getting the last code of line together it was a little difficult because I had to try to put in the function and the variable
+   in the same line I had to go back to the feet_to_miles video for help
 
 
 
