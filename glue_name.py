@@ -18,8 +18,8 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
 
-First_name = input('Enter first name ')
-Last_name = input ('Enter last name ')
+First_name = input('Enter first name: ')
+Last_name = input ('Enter last name: ')
 print(f'Hi', First_name,  Last_name )
     
     
