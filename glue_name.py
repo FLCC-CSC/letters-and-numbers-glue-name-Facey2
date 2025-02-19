@@ -16,9 +16,10 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+print()
 First_name = input('Enter first name: ')
 Last_name = input ('Enter last name: ')
-print(f'Hi, {First_name},  {Last_name} ')
+print(f'Hi,' ,First_name,  Last_name )
     
     
     
